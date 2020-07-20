@@ -1,0 +1,23 @@
+Question 1 : 
+What is your understanding of blockcahin /
+> Blockchain is a list of records also called as blocks which are distributed to various other blocks and linked through cryptography. You cannot change the records in blockchain or else the blocks will have the wrong data. Each block is chained to other block so as to be verifiable unchangeable and immutable. 
+
+Question 2 :
+What is the core problem blockchain trying to solve ?
+> Due to blockchain the problem of data loss  and corruption can be solved and data cannot be tampered so there's data security and more importantly even if the data is lost or changed then too because of blockchain you can take the data from other nearest blocks so as to remain consistent in your records.
+
+Question 3 :
+What are the few features that blockchain will give you ?
+> Verifiable, Immutable, Tamper-proof, Unchangeable, Distributed ledgers, decentralized technology.
+
+Question 4 :
+What all things does a blockchain contains ?
+> Block Number, Transaction Records, Previous Block Signature, Mining key.
+
+Question 5 :
+How is the verifiability if the blockchain has been achieved ?
+> The blockchain technology is decentralized and the data is simultaneously distributed to different blocks, every block consists of block number, transaction records and previous block signature. 
+The very first block is called Genesis block which doesn't have any previous block signature but it have it's own key, so block 1 key is given to block 2.
+Block 2 then generate it's own key which is a mixture of his own transaction record and block 1 key(previous key).
+Same procedure goes on and on with other boxes in a chronological order, if any block is tampered then it's block signature will differ than that of other blocks which are un-tampered. 
+So if anybody wants to verify the signature then they can compare their block's signature with other blocks, hence the varifiablity is achieved.
